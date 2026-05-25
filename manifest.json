@@ -2,7 +2,7 @@
   "name": "요산 퓨린 체커",
   "short_name": "퓨린 체커",
   "description": "음식 퓨린 함량 확인 앱",
-  "start_url": "./purine-checker-icon.html",
+  "start_url": "./purine-checker-icon-5.html",
   "display": "standalone",
   "background_color": "#F0F4F8",
   "theme_color": "#4F86C6",
